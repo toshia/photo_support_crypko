@@ -1,0 +1,10 @@
+---
+slug: :photo_support_crypko
+depends:
+  mikutter: 3.6.0
+  plugin: [openimg]
+version: '1.0'
+author: toshi_a
+name: Crypko
+description: >-
+  Crypko(https://crypko.ai/)の共有用パーマリンク(https://s.crypko.ai/c/116808 のような形式のもの)を画像として取り扱えるようにします。

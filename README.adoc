@@ -1,0 +1,35 @@
+= Photo support for Crypko
+
+== なんこれ
+
+mikutterが、「 https://s.crypko.ai/c/116808 」のような形式のURLを画像として認識するようになります。
+
+イメージビューアで閲覧できるようになるほか、 link:https://github.com/moguno/mikutter-subparts-image[subparts image] プラグインがインラインサムネイルを展開するようになります。
+
+== インストール方法
+
+コマンドラインで以下のコマンドを実行してください。
+
+....
+mkdir ~/.mikutter/plugin; git clone https://github.com/toshia/photo_support_crypko.git ~/.mikutter/pluginphoto_support_crypko
+....
+
+== 使い方
+
+Crypkoを開いて、共有ボタンを探します。
+
+image::https://raw.githubusercontent.com/toshia/photo_support_crypko/picture/01.png[]
+
+ほんでコピー
+
+image::https://raw.githubusercontent.com/toshia/photo_support_crypko/picture/02.png[]
+
+Tootしてみましょう。
+
+image::https://raw.githubusercontent.com/toshia/photo_support_crypko/picture/03.png[]
+
+やったぜ。
+
+== コントリビュート
+
+`0xc41da6c167f4beb33981a80134d34667d4b66fd4` に、女を送ってください！
