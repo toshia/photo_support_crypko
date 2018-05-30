@@ -11,7 +11,7 @@ mikutterが、「 https://s.crypko.ai/c/116808 」のような形式のURLを画
 コマンドラインで以下のコマンドを実行してください。
 
 ....
-mkdir ~/.mikutter/plugin; git clone https://github.com/toshia/photo_support_crypko.git ~/.mikutter/pluginphoto_support_crypko
+mkdir ~/.mikutter/plugin; git clone https://github.com/toshia/photo_support_crypko.git ~/.mikutter/plugin/photo_support_crypko
 ....
 
 == 使い方
